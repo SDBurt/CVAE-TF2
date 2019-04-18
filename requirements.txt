@@ -1,0 +1,6 @@
+imageio==2.5.0
+matplotlib==3.0.3
+numpy==1.16.2
+Pillow==6.0.0
+tensorflow-gpu==2.0.0a0
+tqdm==4.31.1
